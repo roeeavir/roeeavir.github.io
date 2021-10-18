@@ -41,8 +41,8 @@
   }
 
   .siteMap {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 20px;
     /*height: 100%; width: 100%; display:block;*/
   }
