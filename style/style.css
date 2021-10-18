@@ -34,8 +34,9 @@
     border: 2px solid black;
     text-align: center;
     background-repeat: no-repeat;
-    /*background-attachment: fixed;*/
+    background-attachment: fixed;
     background-size: cover;
+    display: inline-block;
   }
 
   .siteMap {
