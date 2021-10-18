@@ -32,11 +32,13 @@ h1 {
   font-size: 16px;
   border: 3px;
   margin: 20px;
+  text-align: center;
+  list-style-position: inside;
+  list-style-type: none; /* Remove bullets */
 }
 
 .hyperLinkList {
   margin: 10px;
-
 }
 
 /* Change the color of links on hover */
@@ -51,6 +53,7 @@ h1 {
   background-image: linear-gradient(#918D6F, #70916F);
   margin: 20px 100px 20px 100px;
   border: 2px solid black;
+  text-align: center;
 }
 
 .subpic {
