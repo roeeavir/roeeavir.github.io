@@ -3,6 +3,7 @@
     background-attachment: fixed;
     background-size: cover;
     display: block;
+    max-height: 2000px;
   }
 
 
@@ -29,6 +30,7 @@
     background-attachment: fixed;
     background-size: cover;
     display: inline-block;
+    margin-bottom: 20px;
   }
 
   .siteMap {
