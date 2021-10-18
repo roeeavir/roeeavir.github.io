@@ -11,7 +11,6 @@
     background-attachment: fixed;
     background-size: cover;
     margin: 0px;
-    text-align: center;
   }
 
 
@@ -30,11 +29,11 @@
     font-family:verdana;
   }
 
-.siteMap {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 20px;
-  height: 100%; width: 100%; display:block;
+  .siteMap {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    height: 100%; width: 100%; display:block;
   }
 
   .list {
@@ -60,14 +59,17 @@
 
   .content {
     background-image: linear-gradient(#918D6F, #70916F);
-/*    margin: 20px 100px 20px 100px;
+    margin: 20px 100px 20px 100px;
     border: 2px solid black;
     text-align: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    margin: 40px;
-    display: inline-block;*/
+    display: inline-block;
+  }
+
+  .center {
+    text-align: center;
   }
 
   .subpic {
@@ -80,8 +82,6 @@
   .topnav {
     background-image: linear-gradient(#333, #666);
     overflow: hidden;
-    margin-right: auto;
-    margin-left: auto;
   }
 
   /* Style the links inside the navigation bar */
