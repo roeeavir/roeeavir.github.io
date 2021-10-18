@@ -25,6 +25,7 @@ h1 {
   margin: auto;
   margin-bottom: 10px;
   text-align: center;
+  overflow: none;
 }
 
 .list {
