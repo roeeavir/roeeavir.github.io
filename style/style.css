@@ -1,9 +1,18 @@
-.body {
+/*body {
   margin: 0px;
   background-repeat: no-repeat;
   background-size: auto;
   background-size: 100%;
+}*/
+
+
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0px;
 }
+
 
 h1 {
   text-align: center;
@@ -20,11 +29,12 @@ h1 {
   font-family:verdana;
 }
 
-.siteMap {
+/*.siteMap {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
-}
+  height: 100%; width: 100%; display:block;
+}*/
 
 .list {
   padding: 5px;
